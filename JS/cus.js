@@ -1,1 +1,1 @@
-const num = {}
+const num = []
