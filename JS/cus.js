@@ -1,3 +1,1 @@
-const app = function () {
-    console.log("app")
-}
+const num = {}
